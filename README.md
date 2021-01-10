@@ -1,5 +1,8 @@
 # ScheduleParser
-Schedule parser developed in Python. Target: https://tt.vogu35.ru/
+Schedule parser developed in Python. 
+
+[Target site](https://tt.vogu35.ru/)
+
 # Get Started
 Clone git repository:
 
@@ -33,6 +36,6 @@ python parser.py
 
 Collection date - `10.01.21`
 
-```console
-https://www.dropbox.com/sh/xsh97v1c7rw99mh/AACd0BMIFMA9fWsGgM8egkpJa?dl=0
-```
+
+[Link to Dropbox](https://www.dropbox.com/sh/xsh97v1c7rw99mh/AACd0BMIFMA9fWsGgM8egkpJa?dl=0)
+
