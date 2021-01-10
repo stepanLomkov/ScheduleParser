@@ -28,3 +28,11 @@ python parser.py
   ```console
   pip install requests
   ```
+  
+# Parsing results
+
+Collection date - `10.01.21`
+
+```console
+https://www.dropbox.com/sh/xsh97v1c7rw99mh/AACd0BMIFMA9fWsGgM8egkpJa?dl=0
+```
